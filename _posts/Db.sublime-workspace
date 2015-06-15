@@ -1,0 +1,1242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"libra",
+				"LIBRARY_PATH"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"att",
+				"attrs"
+			],
+			[
+				"data",
+				"data_login_info"
+			],
+			[
+				"fil",
+				"filepath"
+			],
+			[
+				"tes",
+				"testDb"
+			],
+			[
+				"gloa",
+				"GLOBALS"
+			],
+			[
+				"admin",
+				"admin_password"
+			],
+			[
+				"admi",
+				"admin_password"
+			],
+			[
+				"for",
+				"forbidden_chars"
+			],
+			[
+				"arra",
+				"array_flip"
+			],
+			[
+				"ga_da",
+				"ga_data_command"
+			],
+			[
+				"ga_",
+				"ga_data"
+			],
+			[
+				"ga",
+				"ga_structure"
+			],
+			[
+				"test_ta",
+				"test_table"
+			],
+			[
+				"mysq",
+				"mysqldump_options"
+			],
+			[
+				"test",
+				"test_table2"
+			],
+			[
+				"test_",
+				"test_table_command"
+			],
+			[
+				"liste_",
+				"liste_data_needed"
+			],
+			[
+				"column",
+				"COLUMN_KEY"
+			],
+			[
+				"table",
+				"tables_list"
+			],
+			[
+				"COLUMN",
+				"COLUMN_DEFAULT"
+			],
+			[
+				"colum",
+				"COLUMN_TYPE"
+			],
+			[
+				"tab",
+				"tab_arr"
+			],
+			[
+				"table_s",
+				"tables_strings"
+			],
+			[
+				"colu",
+				"COLUMN_NAME"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"TABLE",
+				"TABLE_NAME"
+			],
+			[
+				"var",
+				"var_name"
+			],
+			[
+				"tables",
+				"tables_strings"
+			],
+			[
+				"tabl",
+				"tables_list"
+			],
+			[
+				"con",
+				"constraints_query"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"level",
+				"level_suffix"
+			],
+			[
+				"assertlen",
+				"assertSelectCount"
+			],
+			[
+				"assert",
+				"assertContains"
+			],
+			[
+				"assertC",
+				"assertCount"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"isint",
+				"is_int"
+			],
+			[
+				"header",
+				"header()"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"arr",
+				"array_operator"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"cond",
+				"condition"
+			],
+			[
+				"condi",
+				"condition"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"paren",
+				"parent_model"
+			],
+			[
+				"para",
+				"params_array"
+			],
+			[
+				"pare",
+				"parent_model"
+			],
+			[
+				"defi",
+				"defined_vars"
+			],
+			[
+				"def",
+				"defined_vars"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"style",
+				"style_list"
+			],
+			[
+				"files",
+				"files_list"
+			],
+			[
+				"pre",
+				"pre_truc"
+			],
+			[
+				"globals",
+				"global_keys"
+			],
+			[
+				"glo",
+				"global_keys"
+			],
+			[
+				"get_defined",
+				"get_defined_vars"
+			],
+			[
+				"get_de",
+				"get_defined_vars"
+			],
+			[
+				"is",
+				"isset()"
+			],
+			[
+				"where",
+				"where_clause"
+			],
+			[
+				"join",
+				"join_clause"
+			],
+			[
+				"whe",
+				"where_clause"
+			],
+			[
+				"joi",
+				"join_type"
+			],
+			[
+				"impl",
+				"implode()"
+			],
+			[
+				"quer",
+				"query_list"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"query",
+				"query_list"
+			],
+			[
+				"array",
+				"array_query"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"web",
+				"web_root"
+			],
+			[
+				"foreach",
+				"foreach	foreach"
+			],
+			[
+				"else",
+				"else	else"
+			],
+			[
+				"sta",
+				"stacktraceStr"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"array_co",
+				"array_count_values"
+			],
+			[
+				"st",
+				"stackTraceStr"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"exp",
+				"exp_query"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"json",
+				"json_config"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Zend",
+				"Zend_Date"
+			],
+			[
+				"_",
+				"_redirector"
+			],
+			[
+				"_f",
+				"_FILES"
+			],
+			[
+				"Zend_F",
+				"Zend_Form_Element_Hidden"
+			],
+			[
+				"pat",
+				"pathArray"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"capt",
+				"captchaOptions"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"cap",
+				"captcha-id"
+			],
+			[
+				"user_",
+				"user_mail"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"packa",
+				"package_limit"
+			],
+			[
+				"max",
+				"maxSize"
+			],
+			[
+				"ad",
+				"addElement"
+			],
+			[
+				"ZendVa",
+				"Zend_Validate_StringLength"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"to",
+				"toDelete"
+			],
+			[
+				"sho",
+				"showSlider"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"user",
+				"user_folder"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"li",
+				"listePackages"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"package",
+				"package_name"
+			],
+			[
+				"lis",
+				"listeUsers"
+			],
+			[
+				"em",
+				"emailValidator"
+			],
+			[
+				"Zend_Va",
+				"Zend_Validate_EmailAddress"
+			],
+			[
+				"form",
+				"formErrors"
+			],
+			[
+				"id",
+				"id_package"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"ca",
+				"captchaInput"
+			],
+			[
+				"cre",
+				"createaccount"
+			],
+			[
+				"Zend_Vali",
+				"Zend_Validate_StringLength"
+			],
+			[
+				"na",
+				"nameInput"
+			],
+			[
+				"pack",
+				"packageInput"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 314.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"dock",
+				"Snippet: Start Docblock"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"sublim",
+				"Sublimerge: View Diff"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"phpu",
+				"Snippet: class-xxTest-extends-PHPUnit_Framework_TestCase"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"branch",
+				"Git: New Branch"
+			],
+			[
+				"merge",
+				"Sublimerge: View Diff"
+			],
+			[
+				"subli",
+				"Sublimerge: View Diff"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"gitign",
+				"Gitignore: New gitingore"
+			],
+			[
+				"json",
+				"Set Syntax: SJSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git reser",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"getter",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"class",
+				"Snippet: Class"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"smarty",
+				"Set Syntax: Smarty"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"doc",
+				"Snippet: Start Docblock"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"debug",
+				"Snippet: Debug"
+			],
+			[
+				"debu",
+				"Snippet: Debug"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"de",
+				"Snippet: Debug"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"deb",
+				"Snippet: Debug"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"snippet",
+				"Snippet: COOKIE['…']"
+			],
+			[
+				"xsl",
+				"Set Syntax: XSL"
+			],
+			[
+				"xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"github",
+				"GitHub: Open Gist in Browser"
+			],
+			[
+				"git ",
+				"Git: Pull"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/killian/workspace/blog/source/_posts/2013-09-10-sublime-text.markdown",
+		"/home/killian/workspace/blog/sftp-config.json",
+		"/home/killian/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/killian/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/killian/workspace/blog/.powrc",
+		"/home/killian/workspace/blog/Rakefile",
+		"/home/killian/workspace/blog/source/_includes/head.html",
+		"/home/killian/workspace/blog/source/_includes/after_footer.html",
+		"/home/killian/workspace/blog/source/_includes/custom/head.html",
+		"/home/killian/workspace/blog/_config.yml",
+		"/home/killian/workspace/blog/source/_includes/jquery.html",
+		"/home/killian/workspace/www2/source/a-propos/cv/index.markdown",
+		"/home/killian/workspace/www2/source/_includes/custom/header.html",
+		"/home/killian/workspace/www2/source/_includes/header.html",
+		"/home/killian/workspace/www2/source/_includes/navigation.html",
+		"/home/killian/workspace/www2/source/_posts/2013-08-02-octopress.markdown",
+		"/home/killian/workspace/www2/source/.htaccess",
+		"/home/killian/workspace/www2/_config.yml",
+		"/home/killian/workspace/www2/source/_includes/head.html",
+		"/home/killian/workspace/www2/source/_posts/2013-08-01-octopress.markdown",
+		"/home/killian/workspace/www2/source/blog/categories/index.markdown",
+		"/home/killian/workspace/www2/source/_posts/2013-07-31-premier-article-parce-quil-en-faut-un.markdown",
+		"/home/killian/workspace/www2/public/robots.txt",
+		"/tmp/fz3temp-1/index.php",
+		"/home/killian/workspace/www2/source/a-propos/index.markdown",
+		"/home/killian/workspace/www2/source/_posts/2013-07-30-octopress.markdown",
+		"/home/killian/workspace/www2/source/_posts/2013-07-29-premier-article-dot-dot-dot-parce-quil-en-faut-un.markdown",
+		"/home/killian/workspace/www2/plugins/post_url.rb",
+		"/home/killian/workspace/www2/plugins/post_url",
+		"/home/killian/workspace/www2/source/_layouts/category_index.html",
+		"/home/killian/workspace/www2/source/_posts/2013-07-28-premier-article-dot-dot-dot-parce-quil-en-faut-un.markdown",
+		"/home/killian/Dropbox/Escale/Killian/GestionAIR/Liste des API - GA Remote.html",
+		"/home/killian/workspace/www2/source/_includes/banner.html",
+		"/home/killian/workspace/www2/source/favicon.png",
+		"/home/killian/workspace/www2/source/404/index.markdown",
+		"/home/killian/workspace/www2/source/404.markdown",
+		"/home/killian/workspace/www2/source/_includes/custom/navigation.html",
+		"/home/killian/workspace/www2/sftp-config.json",
+		"/home/killian/workspace/www2/application/configs/application.ini",
+		"/home/killian/workspace/www2/application/layouts/scripts/layout.phtml",
+		"/home/killian/workspace/www2/public/index.php",
+		"/home/killian/workspace/www2/application/Bootstrap.php",
+		"/home/killian/workspace/www2/public/index.html",
+		"/home/killian/Dev/www2.sublime-project",
+		"/home/killian/workspace/www2/public/sftp-config.json",
+		"/home/killian/workspace/www2/public/article.html",
+		"/home/killian/workspace/www2/contact.html",
+		"/home/killian/workspace/www2/css/style.css",
+		"/home/killian/workspace/www2/index.html",
+		"/home/killian/workspace/www2/css/knacss.css",
+		"/home/killian/workspace/www2/article.html",
+		"/home/killian/workspace/www2/whoami.html",
+		"/home/killian/workspace/www2/application/controllers/index/IndexController.php",
+		"/home/killian/workspace/www2/application/controllers/index/index.php",
+		"/home/killian/workspace/www2/application/views/scripts/index/index.phtml",
+		"/home/killian/workspace/www2/application/views/scripts/error/error.phtml",
+		"/home/killian/.cache/.fr-plFMXU/cloudbox/application/layouts/scripts/layout.phtml",
+		"/home/killian/.cache/.fr-PVtxB7/cloudbox/application/views/scripts/error/error.phtml",
+		"/home/killian/.cache/.fr-5raxZ4/cloudbox/application/controllers/IndexController.php",
+		"/home/killian/.cache/.fr-Efdr4s/cloudbox/public/index.php",
+		"/home/killian/.config/sublime-text-2/Packages/User/Element Finder.sublime-settings",
+		"/home/killian/.config/sublime-text-2/Packages/Element Finder/Element Finder.sublime-settings",
+		"/home/killian/.cache/.fr-8d8hUp/SlidePushMenus/README.md",
+		"/home/killian/workspace/www2/robots.txt",
+		"/home/killian/workspace/www2/js/helium.js",
+		"/home/killian/workspace/www2/css/../crypt.php",
+		"/home/killian/Dropbox/Killian/cowboy/inputFile/inputFile.js",
+		"/home/killian/workspace/cowboy.js/cowboy.js.sublime-project",
+		"/home/killian/workspace/gestionair/conf/conf.json",
+		"/home/killian/workspace/db-dump/db_dump.php",
+		"/home/killian/workspace/db-dump/ga_data.sql",
+		"/home/killian/workspace/gestionair/ga/process/service/post/login.php",
+		"/home/killian/workspace/gestionair/lib/core/Bootstrap.class.php",
+		"/home/killian/Dropbox/Dev/RevolverCSS/css/styles.css",
+		"/home/killian/Dropbox/Dev/RevolverCSS/revolver.css",
+		"/home/killian/Dropbox/Dev/RevolverCSS/index.html",
+		"/home/killian/workspace/crypt.php",
+		"/home/killian/workspace/gestionair/file/.gitignore",
+		"/home/killian/workspace/gestionair/lib/db/ga_structure.sql",
+		"/home/killian/workspace/gestionair/index.php",
+		"/home/killian/Dropbox/Killian/dump_db/db_dump.php",
+		"/home/killian/workspace/db-dump/ga_structure.sql",
+		"/home/killian/.config/sublime-text-2/Packages/User/Fetch.sublime-settings",
+		"/home/killian/workspace/gestionair/conf/conf.json.old",
+		"/home/killian/workspace/gestionair/lib/core/page.php",
+		"/home/killian/workspace/gestionair/lib/core/Db.class.php",
+		"/home/killian/workspace/gestionair/lib/core/Debug.class.php",
+		"/home/killian/workspace/gestionair/conf/conf2.json",
+		"/home/killian/workspace/gestionair/db.sql",
+		"/home/killian/workspace/test.tld/db-dump.php",
+		"/home/killian/workspace/gestionair/db-dump2.php",
+		"/home/killian/Téléchargements/vintitres-gnome-shell-google-calendar-0fa6c39/README",
+		"/home/killian/test.sql",
+		"/home/killian/.cache/.fr-avCpLC/class_et_mail/Classe/Dumpmysqldatabase.php",
+		"/home/killian/.cache/.fr-CRUxJS/class_et_mail/Classe/Dumpmysqldatabase.php",
+		"/home/killian/workspace/test.tld/test.sql",
+		"/home/killian/.cache/.fr-sKRx1E/dump.php3",
+		"/home/killian/.cache/.fr-OwQAXR/class_et_mail/index.php",
+		"/home/killian/workspace/gestionair/js/.gitignore",
+		"/home/killian/workspace/gestionair/ga/templates/structure/footer.tpl",
+		"/home/killian/Dropbox/David/sujets de réunion.txt",
+		"/home/killian/workspace/gatest.tld/ga/action/process/action/post/backup.php",
+		"/home/killian/.cache/.fr-F2mxbr/cinnadock.txt",
+		"/home/killian/.cache/.fr-MOkW3Y/cinnadock.txt",
+		"/home/killian/.cache/.fr-07uoNk/cinnadock.txt",
+		"/home/killian/workspace/gatest.tld/conf/conf.php",
+		"/home/killian/workspace/gestionair/ga/process/service/pre/page/edit.php",
+		"/home/killian/workspace/gestionair/ga/process/service/pre/page/add.php",
+		"/home/killian/workspace/gestionair/ga/templates/pages/page/add.tpl",
+		"/home/killian/workspace/gestionair/ga/templates/pages/page/edit.tpl",
+		"/home/killian/workspace/gestionair/ga/templates/pages/page.tpl",
+		"/home/killian/workspace/gestionair/conf/conf-example.json",
+		"/home/killian/workspace/gestionair/conf/.htaccess",
+		"/home/killian/workspace/gestionair/templates/pages/test.tpl",
+		"/home/killian/workspace/cloudbox/application/configs/application.ini",
+		"/home/killian/Bureau/tests/HashTest.php",
+		"/home/killian/Bureau/tests/DebugTest.php",
+		"/tmp/gestionair-6.sql",
+		"/tmp/gestionair-5.sql",
+		"/tmp/gestionair-4.sql",
+		"/home/killian/workspace/gestionair/ga/templates/pages/admin.tpl",
+		"/tmp/gestionair-3.sql",
+		"/home/killian/workspace/gestionair/ga/templates/pages/admin/password.tpl",
+		"/home/killian/workspace/gestionair/ga/templates/pages/pages.tpl",
+		"/tmp/gestionair-2.sql",
+		"/home/killian/workspace/gestionair/lib/core/service.php",
+		"/home/killian/workspace/gestionair/ga/process/service/pre/admin/add.php",
+		"/home/killian/workspace/gestionair/ga/process/service/pre/admin/password.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<script",
+			"&egrave;",
+			"me",
+			"Syst&egrave;me",
+			"&egrave;",
+			"&agrave;",
+			"&eacute;",
+			"&ccedil;",
+			"&acirc;",
+			"&agrave;",
+			"&egrave;",
+			"&eacute;",
+			"&egrave;",
+			"&ecirc;",
+			"&agrave;",
+			"&eacute;",
+			"é",
+			"à",
+			"ô",
+			"ê",
+			"é",
+			"Read on",
+			"ê",
+			"é",
+			".classname",
+			"textarea",
+			"Arsenal",
+			"h3",
+			"href=\"#",
+			"également",
+			"=\"pubdate\"",
+			":42+02:00",
+			"h3",
+			"\n	",
+			"_setOptions",
+			"rounds",
+			"host",
+			"surname",
+			"gestionair",
+			"$req",
+			"Req",
+			"req",
+			"ligne",
+			"finRequete",
+			"[type]",
+			"needed_var",
+			"self::FAILED",
+			"doDumpMysql",
+			"$test_table_command",
+			"test_table_",
+			"test_table",
+			". ' --skip-comments --skip-add-drop-table --skip-set-charset'",
+			"4",
+			"3",
+			"test_table3",
+			"2",
+			"'\\n'",
+			"ga_data",
+			" .",
+			"structure",
+			"$command",
+			"tables_strings",
+			"!isset(",
+			"!isset",
+			"id_model",
+			"keywords",
+			"description",
+			"page_info",
+			"title",
+			"description",
+			"\"\"",
+			"level",
+			"url",
+			"URl",
+			"label",
+			"\"\"",
+			"thead",
+			"td",
+			"404",
+			"pass",
+			"\"\"",
+			"self::",
+			"analyzeWhere",
+			"$this->PDO->quote",
+			"analyzeWhere",
+			"JSON_PRETTY_PRINT",
+			"query_regex1",
+			"query_regex2",
+			"$key",
+			"$condition[] =",
+			"data_implode",
+			"\\",
+			"$conditions",
+			"preprocess(",
+			"preprocess",
+			"/style",
+			"	",
+			"$var[2]",
+			"self::",
+			"_",
+			"$_GET",
+			"echo",
+			"pre_truc",
+			"data_implode",
+			"where",
+			"where_str",
+			"array_diff_key",
+			"where_clause(",
+			"$",
+			"$where[",
+			"where_clause",
+			"$callback",
+			"is_callable",
+			"where_clause",
+			"seria",
+			"type",
+			"['type']",
+			"[ Prop name ]",
+			"$GLOBALS['debug']",
+			"select",
+			"group",
+			"DB",
+			"Db",
+			"page_",
+			"h3",
+			"keywords",
+			"title",
+			"Keyboard=new class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sublime.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 188.0
+	},
+	"output.phpdocumentor":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "Db.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"after",
+				"source/_includes/after_footer.html"
+			],
+			[
+				"head.html",
+				"source/_includes/head.html"
+			],
+			[
+				"head",
+				"source/_includes/custom/header.html"
+			],
+			[
+				"navigatio",
+				"source/_includes/navigation.html"
+			],
+			[
+				"header",
+				"source/_includes/custom/header.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/killian/Dev/rapport.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
