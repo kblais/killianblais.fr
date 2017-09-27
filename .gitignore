@@ -1,8 +1,11 @@
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Jekyll Specific
 _site/
-_drafts/
-.DS_Store
-.*.swp
-.idea
-.sass-cache/
-*~
+
+# Ruby
 Gemfile.lock

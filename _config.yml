@@ -1,56 +1,38 @@
-# Harmony Jekyll theme general configurations
+# Site settings
+title: "killianblais.fr"
+email: contact@killianblais.fr
+description: "Blog d'un dev PHP Laravel, mais pas que..."
+baseurl: ""
+url: "http://killianblais.fr"
+title_description: ""
+title_image: "https://www.gravatar.com/avatar/f502004c5fbcd32e7b82db6f0973cf44?s=500&d=mm"
+google_analytics:
+disqus_account:
+addthis_id:
+post_limit: 5
 
-# Base URL
-baseurl:
+# Social usernames/URLs
+social:
+  twitter_username: killianblais
+  github_username:  blaiskillian
+  instagram_username:
+  reddit_username:
+  linkedin_link:
+  google_plus_link:
+  stackoverflow_link:
+  xing_link:
+  facebook_link:
 
-# Site live URL
-url: http://killianblais.fr
+# Footer
+footer_left: "Thème créé par <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "Blog hébergé sur <a href=\"https://github.com/kblais/blog\">Github</a>"
 
-# Localhost
-# url: http://127.0.0.1:4000
+# Build settings
+markdown: kramdown
 
-# Harmony theme configuration. Please change accordingly.
-harmony:
-  name: killianblais.fr
-  # Little description about your site
-  # description: > #
-  #  Mon petit coin sur internet
-  meta_description: > #
-   Mon blog de dev, sur PHP, Debian, et plein d'autres truc !
-  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
-  author: # Author details
-    name: Killian Blais
-    email: contact@killianblais.fr
-    url: http://killianblais.fr
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-  # Google Analytics key, leave blank to ignore
-  # google_analytics_key: UA-xxxx-x
-
-  # Profile links, leave blank to ignore
-  social:
-    github: blaiskillian
-    twitter: killianblais
-  # Toggle disclaimer in footer
-  show_disclaimer: false
-
-# Conversion / Build settings
-markdown:    kramdown
-# This is how you put pygments config in jekyll 2.0 instead of pygments: true
-highlighter: pygments
-
-# Permalinks
-permalink:        pretty
-
-exclude:
-  - CNAME
-  - Gemfile
-  - Rakefile
-  - README.md
-  - .gitignore
-  - .sass-cache
-  - Gemfile.lock
-
-# Sass conversion configs
-sass:
-    sass_dir: assets/css/_sass
-    style: :compressed
+permalink: pretty
+exclude: [vendor]
