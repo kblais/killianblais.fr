@@ -350,6 +350,33 @@ ul {
 		}
 	}
 
+	.resume {
+		@extend .articles;
+
+		text-align: left;
+
+		ul {
+			padding-left: 25px;
+			list-style-type: disc;
+
+			li {
+				font-size: 20px;
+				margin-bottom: 10px;
+
+				ul {
+					list-style-type: circle;
+					padding-left: 25px;
+
+					li {
+						font-size: 16px;
+						margin-top: 10px;
+					}
+				}
+			}
+
+		}
+	}
+
 	.copyright {
 		margin-top: 50px;
 		text-align: center;
